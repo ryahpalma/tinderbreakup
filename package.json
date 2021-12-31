@@ -1,0 +1,15 @@
+{
+  "name": "tinderbreakup",
+  "version": "1.0.1",
+  "description": "Creates chaos in relationships, using SMS and Tinder",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^13.0.1"
+  }
+}
